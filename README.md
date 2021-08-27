@@ -21,3 +21,7 @@ $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 mediapipe 
 $ rosrun mediapipe_interface handmotion.py
 
+source /opt/ros/noetic/setup.bash 
+
+source /opt/ros/noetic/setup.bash 
+
